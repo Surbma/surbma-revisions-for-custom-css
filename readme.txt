@@ -1,10 +1,10 @@
-=== Surbma - Revisions for Custom CSS ===
+=== Surbma | Revisions for Custom CSS ===
 Contributors: Surbma
-Donate link: http://surbma.com/wordpress-plugins/
+Donate link: https://surbma.com/donate/
 Tags: revisions, css, custom css
 Requires at least: 4.7
-Tested up to: 4.7
-Stable tag: 1.0.0
+Tested up to: 5.2
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,7 +28,7 @@ Please feel free to contribute, help or recommend any new features for my plugin
 
 **Do you want to know more about me?**
 
-Visit my webpage: [Surbma.com](http://surbma.com/)
+Visit my webpage: [Surbma.com](https://surbma.com/)
 
 == Installation ==
 
@@ -67,6 +67,20 @@ You have to know, that this code will limit revisions for all post types, like p
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1 =
+
+Release date: 2019-07-18
+
+NEW
+
+- Added arguments for Custom CSS post type to show in the admin menu. (Not working yet.)
+
+TWEAK
+
+- Minor code changes.
+- Simple versioning.
+- Shorter function prefixes.
 
 = 1.0.0 =
 
