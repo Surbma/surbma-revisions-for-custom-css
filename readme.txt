@@ -1,10 +1,11 @@
 === Surbma | Revisions for Custom CSS ===
-Contributors: Surbma
+Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: revisions, css, custom css
-Requires at least: 4.7
-Tested up to: 5.2
-Stable tag: 1.1
+Requires at least: 5.1
+Tested up to: 5.3
+Stable tag: 2.0
+Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,7 +34,7 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 == Installation ==
 
 1. Upload `surbma-revisions-for-custom-css` folder to the `/wp-content/plugins/` directory
-2. Activate the Surbma - Revisions for Custom CSS plugin through the 'Plugins' menu in WordPress
+2. Activate the Surbma | Revisions for Custom CSS plugin through the 'Plugins' menu in WordPress
 3. That's it. :)
 
 == Frequently Asked Questions ==
@@ -67,6 +68,13 @@ You have to know, that this code will limit revisions for all post types, like p
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.0 =
+
+Release date: 2020-02-10
+
+- TWEAK - Tested with WordPress 5.3 version.
+- TWEAK - Updated to use a new way to deploy it to wp.org repo.
 
 = 1.1 =
 

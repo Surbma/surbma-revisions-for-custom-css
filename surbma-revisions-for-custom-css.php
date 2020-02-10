@@ -2,10 +2,10 @@
 
 /*
 Plugin Name: Surbma | Revisions for Custom CSS
-Plugin URI: http://surbma.com/wordpress-plugins/
+Plugin URI: https://surbma.com/wordpress-plugins/
 Description: Adds revisions support for the Custom CSS post type.
 
-Version: 1.1
+Version: 2.0
 
 Author: Surbma
 Author URI: https://surbma.com/
